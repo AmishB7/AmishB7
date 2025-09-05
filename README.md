@@ -3,8 +3,7 @@ Hi 👋, I'm Amish
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [contact@amishb.com.np](mailto:contact@amishb.com.np)
-* 🚀  I'm currently working as Node Js Developer at BeamLab(http://github.com/beamlabco)
-* 🧠  I'm learning Node JS
+* 🚀  I'm currently working as Node Js Developer at [BeamLab](http://github.com/beamlabco)
 * 🤝  I'm open to collaborating on Backend Projects
 
 ### Skills
