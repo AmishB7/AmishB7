@@ -3,7 +3,7 @@ Hi 👋, I'm Amish
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [contact@amishb.com.np](mailto:contact@amishb.com.np)
-* 🚀  I'm currently working on [Movie Ticket Booking Application](http://github.com/AmishB7/Movie-Ticket-Booking-App)
+* 🚀  I'm currently working as Node Js Developer at BeamLab(http://github.com/beamlabco)
 * 🧠  I'm learning Node JS
 * 🤝  I'm open to collaborating on Backend Projects
 
